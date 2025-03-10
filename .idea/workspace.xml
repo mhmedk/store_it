@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea0dc3b-c613-4deb-a6e4-6b8f1609d402" name="Changes" comment="feat: all work finished --DONE">
-      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="9ea0dc3b-c613-4deb-a6e4-6b8f1609d402" name="Changes" comment="fix: dynamic fix --DONE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +121,7 @@
       <workItem from="1741208810175" duration="30000" />
       <workItem from="1741208895342" duration="3115000" />
       <workItem from="1741575248325" duration="45000" />
-      <workItem from="1741575316705" duration="2668000" />
+      <workItem from="1741575316705" duration="2967000" />
     </task>
     <task id="LOCAL-00001" summary="feats: all config + upload file function --DONE">
       <option name="closed" value="true" />
@@ -141,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741578392653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix: dynamic fix --DONE">
+      <option name="closed" value="true" />
+      <created>1741578502601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741578502601</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +167,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feats: all config + upload file function --DONE" />
     <MESSAGE value="feat: all work finished --DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: all work finished --DONE" />
+    <MESSAGE value="fix: dynamic fix --DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: dynamic fix --DONE" />
   </component>
 </project>
