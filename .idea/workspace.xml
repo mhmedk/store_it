@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ea0dc3b-c613-4deb-a6e4-6b8f1609d402" name="Changes" comment="feat: all work finished --DONE">
-      <change afterPath="$PROJECT_DIR$/app/(root)/[type]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ActionDropdown.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ActionsModalContent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Chart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FormattedDateTime.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sort.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/chart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/dialog.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/dropdown-menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/select.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Search.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Thumbnail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Thumbnail.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/actions/file.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/file.actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +123,7 @@
       <workItem from="1741208810175" duration="30000" />
       <workItem from="1741208895342" duration="3115000" />
       <workItem from="1741575248325" duration="45000" />
-      <workItem from="1741575316705" duration="2478000" />
+      <workItem from="1741575316705" duration="2668000" />
     </task>
     <task id="LOCAL-00001" summary="feats: all config + upload file function --DONE">
       <option name="closed" value="true" />
@@ -152,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737698776511</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: all work finished --DONE">
+      <option name="closed" value="true" />
+      <created>1741578392653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741578392653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
