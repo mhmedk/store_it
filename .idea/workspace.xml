@@ -4,89 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea0dc3b-c613-4deb-a6e4-6b8f1609d402" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/store_it.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-in/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/FileUploader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MobileNavigation.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/OTPModal.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Sidebar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Thumbnail.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/file.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/actions/user.actions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/appwrite/config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/appwrite/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/arrow-up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/close-dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/dashboard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/delete.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/documents.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/dots.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/download.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/edit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-audio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-csv.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-doc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-document-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-document.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-docx.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-image-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-other-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-other.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-pdf.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-svg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-txt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-video-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/file-video.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/grid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/images.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/info.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/loader-brand.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/loader.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/logo-brand.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/logo-full-brand.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/logo-full.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/logout.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/others.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/remove.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/share.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/thumb-other.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/thumb-video.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/upload.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/icons/video.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/files-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/files.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/images/photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+    <list default="true" id="9ea0dc3b-c613-4deb-a6e4-6b8f1609d402" name="Changes" comment="feat: all work finished --DONE">
+      <change afterPath="$PROJECT_DIR$/app/(root)/[type]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ActionDropdown.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ActionsModalContent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Chart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/FormattedDateTime.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Sort.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/chart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/dialog.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/dropdown-menu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ui/select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Thumbnail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Thumbnail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/file.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/file.actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mhmedk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mhmedk/store_it.git&quot;,
+    &quot;accountId&quot;: &quot;53f58756-8560-4eb3-9389-f0f719182da8&quot;
+  }
+}</component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
@@ -129,7 +79,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\Code\\nextjs\\store_it\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;D:\\Code\\nextjs\\store_it\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -147,7 +97,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
       </set>
     </attachedChunks>
   </component>
@@ -173,11 +123,55 @@
       <workItem from="1737599953343" duration="1313000" />
       <workItem from="1737675941430" duration="1587000" />
       <workItem from="1737690079458" duration="6607000" />
-      <workItem from="1737697605684" duration="587000" />
+      <workItem from="1737697605684" duration="948000" />
+      <workItem from="1738178489558" duration="26000" />
+      <workItem from="1738178522387" duration="2585000" />
+      <workItem from="1738686118219" duration="2585000" />
+      <workItem from="1738796547394" duration="2292000" />
+      <workItem from="1738798870194" duration="22000" />
+      <workItem from="1739851614649" duration="5298000" />
+      <workItem from="1739857430752" duration="28000" />
+      <workItem from="1740020053163" duration="1195000" />
+      <workItem from="1740022791640" duration="2470000" />
+      <workItem from="1740109765380" duration="3575000" />
+      <workItem from="1740117742046" duration="26000" />
+      <workItem from="1740524952473" duration="3729000" />
+      <workItem from="1740581045868" duration="2091000" />
+      <workItem from="1740589116241" duration="2825000" />
+      <workItem from="1741041522261" duration="641000" />
+      <workItem from="1741208810175" duration="30000" />
+      <workItem from="1741208895342" duration="3115000" />
+      <workItem from="1741575248325" duration="45000" />
+      <workItem from="1741575316705" duration="2478000" />
     </task>
+    <task id="LOCAL-00001" summary="feats: all config + upload file function --DONE">
+      <option name="closed" value="true" />
+      <created>1737698776511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737698776511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feats: all config + upload file function --DONE" />
+    <MESSAGE value="feat: all work finished --DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: all work finished --DONE" />
   </component>
 </project>
