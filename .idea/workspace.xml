@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ea0dc3b-c613-4deb-a6e4-6b8f1609d402" name="Changes" comment="fix: dynamic fix --DONE" />
+    <list default="true" id="9ea0dc3b-c613-4deb-a6e4-6b8f1609d402" name="Changes" comment="fix: eslint --DONE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/user.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/user.actions.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +124,7 @@
       <workItem from="1741208810175" duration="30000" />
       <workItem from="1741208895342" duration="3115000" />
       <workItem from="1741575248325" duration="45000" />
-      <workItem from="1741575316705" duration="2967000" />
+      <workItem from="1741575316705" duration="3994000" />
     </task>
     <task id="LOCAL-00001" summary="feats: all config + upload file function --DONE">
       <option name="closed" value="true" />
@@ -147,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741578502601</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix: ignore build erros --DONE">
+      <option name="closed" value="true" />
+      <created>1741578815234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741578815234</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: eslint --DONE">
+      <option name="closed" value="true" />
+      <created>1741579075738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741579075738</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +187,8 @@
     <MESSAGE value="feats: all config + upload file function --DONE" />
     <MESSAGE value="feat: all work finished --DONE" />
     <MESSAGE value="fix: dynamic fix --DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: dynamic fix --DONE" />
+    <MESSAGE value="fix: ignore build erros --DONE" />
+    <MESSAGE value="fix: eslint --DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: eslint --DONE" />
   </component>
 </project>
